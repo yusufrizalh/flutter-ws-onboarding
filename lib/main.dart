@@ -103,35 +103,35 @@ class _OnBoardingState extends State<OnBoarding> {
           },
           children: <Widget>[
             buildPage(
-              color: Colors.green.shade100,
+              color: Colors.white,
               urlImage: 'assets/images/page_1.png',
               title: 'PAGE 1',
               subtitle:
                   'Lorem ipsum odor amet, consectetuer adipiscing elit. Dis curae euismod condimentum feugiat hac dignissim lectus sapien aliquam. Platea vehicula per urna vehicula mi, suscipit scelerisque. Hac facilisis nulla senectus eu massa semper. Egestas convallis tempor lobortis integer convallis viverra. Erat ac cubilia sapien vivamus posuere natoque dictumst. Mus ipsum aliquam leo nullam inceptos sollicitudin. Etiam per mi eros suscipit maecenas litora nec. Dui ex lectus taciti hac pellentesque.',
             ),
             buildPage(
-              color: Colors.blue.shade100,
+              color: Colors.white,
               urlImage: 'assets/images/page_2.png',
               title: 'PAGE 2',
               subtitle:
                   'Nascetur habitant nibh congue rutrum dictum curae lobortis laoreet. Leo metus risus litora lobortis ut. Consectetur suscipit mus turpis lacinia arcu justo parturient pellentesque nascetur. Congue elementum rhoncus magna sagittis ac vivamus potenti. Condimentum pulvinar venenatis sollicitudin parturient hendrerit. Cras potenti odio rhoncus pretium facilisi id elit. Senectus dis vestibulum curabitur porttitor ipsum donec viverra vulputate.',
             ),
             buildPage(
-              color: Colors.orange.shade100,
+              color: Colors.white,
               urlImage: 'assets/images/page_3.png',
               title: 'PAGE 3',
               subtitle:
                   'Amet varius semper urna varius netus facilisis. Cursus suscipit bibendum ornare per sem. Ornare tincidunt nec primis luctus elementum; consectetur leo. Tristique nulla montes nam vitae; curabitur ex libero tincidunt phasellus. Duis ornare ultrices luctus ultricies lacus tortor est. Placerat tempor turpis tortor placerat eleifend rutrum. Duis dignissim quis laoreet mi sit morbi. Torquent a varius natoque libero platea. Quisque lectus praesent cursus, congue maecenas curabitur imperdiet ipsum quisque. Fames congue eu aenean nec duis.',
             ),
             buildPage(
-              color: Colors.purple.shade100,
+              color: Colors.white,
               urlImage: 'assets/images/page_4.png',
               title: 'PAGE 4',
               subtitle:
                   'Netus orci et vitae in diam vivamus. Curabitur bibendum ac velit torquent urna vehicula velit interdum. Interdum curabitur inceptos habitant massa purus faucibus platea tempus. Nibh facilisi non adipiscing imperdiet fames hendrerit sagittis ultrices. Hendrerit maecenas habitant proin ad, sapien fames venenatis lectus. Parturient facilisis feugiat pellentesque parturient per varius varius libero? Vehicula venenatis velit consequat imperdiet varius. Eu tincidunt parturient ridiculus nisl taciti dui class iaculis cras.',
             ),
             buildPage(
-              color: Colors.red.shade100,
+              color: Colors.white,
               urlImage: 'assets/images/page_5.png',
               title: 'PAGE 5',
               subtitle:
